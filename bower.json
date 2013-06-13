@@ -1,0 +1,7 @@
+{
+  "name": "bower-bootstrap-css",
+  "version": "2.3.2",
+  "main": "./bootstrap.min.css",
+  "dependencies": {
+  }
+}
